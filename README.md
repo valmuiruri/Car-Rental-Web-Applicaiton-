@@ -1,0 +1,2 @@
+# Car-Rental-Web-Applicaiton-
+Database Management Systems course project - Car Rental application for Rental Agencies that provides them with an interface for customers to rent their vehicles. Rental Agency are able to directly import their desired data through the Web Application, manage their rental cars, and complete administration tasks such as invoices. Currently, the database is stored on a local server (eg.. WAMPServer) and using a MySQL database to store the data. 
